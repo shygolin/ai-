@@ -3,7 +3,7 @@
 忘記切換輸入法，把「你好」打成 `su3cl3` 怎麼辦？這個機器人會自動幫你翻譯回來！
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Discord](https://img.shields.io/badge/Discord-Py-latest-green.svg)
+![Discord.py](https://img.shields.io/badge/Discord.py-latest-green)
 
 ---
 
